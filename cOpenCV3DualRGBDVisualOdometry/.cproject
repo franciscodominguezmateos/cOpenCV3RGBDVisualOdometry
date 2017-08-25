@@ -27,7 +27,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/cOpenCV3DRigidTransformation/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/cOpenCV3Util/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/cOpenCV3BinnedDetector/src}&quot;"/>
-									<listOptionValue builtIn="false" value="/opt/ros/kinetic/include/opencv-3.1.0-dev"/>
+									<listOptionValue builtIn="false" value="/opt/ros/kinetic/include/opencv-3.2.0-dev"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/depthimage}&quot;"/>
 								</option>
 								<option id="gnu.cpp.compiler.option.other.other.2106051386" name="Other flags" superClass="gnu.cpp.compiler.option.other.other" value="-c -fmessage-length=0 -std=c++11" valueType="string"/>

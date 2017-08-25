@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 			myWindow.setWidgetPose("i"+to_string(i),a);
 		}
 		myWindow.setWidgetPose("a"+to_string(i/20),a);
- 		if (waitKey(1) == 27) break;
+ 		if (waitKey() == 27) break;
  	    myWindow.spinOnce(1);
 	}
 
